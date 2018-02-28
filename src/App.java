@@ -145,7 +145,6 @@ public class App extends Application
         svgTF.setEditable(false);
         svgTF.setPrefWidth(350);
         svgTF.setFocusTraversable(false);
-        svgTF.setFont(font);
 
         btn1 = new Button("SVG...");
         btn1.setFont(font);
@@ -154,7 +153,6 @@ public class App extends Application
         fxmlTF.setEditable(false);
         fxmlTF.setPrefWidth(350);
         fxmlTF.setFocusTraversable(false);
-        fxmlTF.setFont(font);
 
         btn2 = new Button("...FXML");
         btn2.setDisable(true);
