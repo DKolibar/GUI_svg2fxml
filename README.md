@@ -9,5 +9,4 @@ GUI created for e(fx)clipse.org community "svg to fxml" tool. I created it to ma
 
 ---
 
-### Tested only with Windows 10!
 ![window](https://i.imgur.com/D1MeftR.png)
